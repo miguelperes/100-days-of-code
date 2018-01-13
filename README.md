@@ -10,3 +10,6 @@ The log of my #100DaysOfCode challenge. Started on [January 10, Wednesday, 2018]
 ### R1D2
 [Coding] Final project: Track relic interaction event
 [Reading/Study] 2018 tech-to-learn, React
+
+### R1D2
+[Reading/Study] React studies
