@@ -27,4 +27,11 @@ The log of my #100DaysOfCode challenge. Started on [January 10, Wednesday, 2018]
 [Coding] Final Project: Send event data to DB. Recover and strucute this data for further processing (rendering proper viz)
 
 ### R1D8 (01/17/2017)
-[Reading/Study] Elixir programming language basics
+[Reading/Study] Elixir programming language basics (Collections, Enum, Pattern Matching, Functions, Pipe, Modules)
+
+### R1D9 (01/18/2017)
+[Reading/Study] Elixir programming language basics (Mix, Sigils, Docs, Test, Comprehension, Strings)
+
+### R1D10 (01/19/2017)
+[Reading/Study] Elixir example programs
+[Coding] Setup of elixir project (challenge)
