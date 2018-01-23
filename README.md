@@ -45,3 +45,6 @@ The log of my #100DaysOfCode challenge. Started on [January 10, Wednesday, 2018]
 ### R1D13 (01/22/2017) [M]
 [Reading/Study] Elixir: structs, pattern matching with structs, assertion
 [Code] Elixir Project: Setting account struct, basic transfer function
+
+### R1D14 (01/23/2018) [Tu]
+[Code] Elixir project: Basic transfer function (single account transfer) and unit testing
