@@ -47,4 +47,11 @@ The log of my #100DaysOfCode challenge. Started on [January 10, Wednesday, 2018]
 [Code] Elixir Project: Setting account struct, basic transfer function
 
 ### R1D14 (01/23/2018) [Tu]
-[Code] Elixir project: Basic transfer function (single account transfer) and unit testing
+[Code]
+Elixir project: Basic transfer function (single account transfer) and unit testing.
+Final Project: Define new model for handling event rendering and naming convention.
+
+### R1D14 (01/24/2018) [W]
+[Code] Elixir project: Solution for float issue when handling monetary arithmetic; solution for currency convertion (Open Exchange Rates)
+
+### R1D14 (01/25/2018) [Th]
