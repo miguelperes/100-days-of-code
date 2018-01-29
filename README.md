@@ -18,7 +18,7 @@ The log of my #100DaysOfCode challenge. Started on [January 10, Wednesday, 2018]
 [Reading/Study] React (Firebase/LocalStorage persistance, life cycles, bi-directional dataflow, live state editing) and choosing a good MERN tutorial
 
 ### R1D5 (01/14/2017) [Sn]
--
+✕
 
 ### R1D6 (01/15/2017) [M]
 [Reading/Study] YDKJS #5 12% 
@@ -37,10 +37,10 @@ The log of my #100DaysOfCode challenge. Started on [January 10, Wednesday, 2018]
 [Coding] Setup of elixir project (challenge)
 
 ### R1D11 (01/20/2017) [St]
--
+✕
 
 ### R1D12 (01/21/2017) [Sn]
--
+✕
 
 ### R1D13 (01/22/2017) [M]
 [Reading/Study] Elixir: structs, pattern matching with structs, assertion
@@ -56,3 +56,12 @@ Final Project: Define new model for handling event rendering and naming conventi
 
 ### R1D16 (01/25/2018) [Th]
 [Code] Elixir project: implemented solution sugin Money package. TODO: last basic transfer test, splitted transfer and currency conversion
+
+### R1D17 (01/26/2018) [F]
+✕
+
+### R1D18 (01/27/2018) [St]
+✕
+
+### R1D19 (01/28/2018) [Sn]
+✕
