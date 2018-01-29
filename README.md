@@ -65,3 +65,6 @@ Final Project: Define new model for handling event rendering and naming conventi
 
 ### R1D19 (01/28/2018) [Sn]
 ✕
+
+### R1D20 (01/29/2018) [M]
+[Code] Elixir project: setup Travis for CI and ExCoveralls as coverage report tool; Test for trasfer fail
