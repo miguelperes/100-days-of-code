@@ -68,3 +68,6 @@ Final Project: Define new model for handling event rendering and naming conventi
 
 ### R1D20 (01/29/2018) [M]
 [Code] Elixir project: setup Travis for CI and ExCoveralls as coverage report tool; Test for trasfer fail
+
+### R1D21 (01/30/2018) [Tu]
+[Code] Elixir project: Multiple account transfer; issues with open_exchange_rate wrapper (probably will have to do my own API calls)
