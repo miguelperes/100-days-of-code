@@ -71,3 +71,6 @@ Final Project: Define new model for handling event rendering and naming conventi
 
 ### R1D21 (01/30/2018) [Tu]
 [Code] Elixir project: Multiple account transfer; issues with open_exchange_rate wrapper (probably will have to do my own API calls)
+
+### R1D22 (01/31/2018) [W]
+[Code] Elixir project: Currency conversion using static rates from file or exchange value
