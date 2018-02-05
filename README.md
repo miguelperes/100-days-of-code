@@ -74,3 +74,18 @@ Final Project: Define new model for handling event rendering and naming conventi
 
 ### R1D22 (01/31/2018) [W]
 [Code] Elixir project: Currency conversion using static rates from file or exchange value
+
+### R1D23 (02/01/2018) [Th]
+[Code] Elixir project: Add support for currency operations, add Elixir 1.6 formatter
+
+### R1D24 (02/02/2018) [F]
+✕
+
+### R1D25 (02/03/2018) [St]
+✕
+
+### R1D26 (02/04/2018) [Sn]
+✕
+
+### R1D27 (02/05/2018) [M]
+[Code] Elixir project: Documentation (@doc and @spec), readme update, refactor transfer function to improve readability
