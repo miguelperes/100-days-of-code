@@ -89,3 +89,10 @@ Final Project: Define new model for handling event rendering and naming conventi
 
 ### R1D27 (02/05/2018) [M]
 [Code] Elixir project: Documentation (@doc and @spec), readme update, refactor transfer function to improve readability
+
+### R1D28 (02/06/2018) [Tu]
+[Code] Elixir project: 
+- Created a custom Money struct to replace ex_money hex package
+- Used Accounts.new/2 to define Accounts, instead of declaring the struct directly.
+- Implemented an extra version of FinancialSystem.add/2 (using Account instead of Money) and fixed sub/2 (checking balance limit)
+- Check currency validity before conversion
