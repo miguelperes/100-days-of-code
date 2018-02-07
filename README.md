@@ -96,3 +96,6 @@ Final Project: Define new model for handling event rendering and naming conventi
 - Used Accounts.new/2 to define Accounts, instead of declaring the struct directly.
 - Implemented an extra version of FinancialSystem.add/2 (using Account instead of Money) and fixed sub/2 (checking balance limit)
 - Check currency validity before conversion
+
+### R1D29 (02/07/2018) [W]
+[Code] Elixir project: Add Dyalizer (dialyxir) to run static code analysis and fix types (basec on 'typespec'); general refactor.
