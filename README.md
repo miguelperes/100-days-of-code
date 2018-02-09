@@ -99,3 +99,7 @@ Final Project: Define new model for handling event rendering and naming conventi
 
 ### R1D29 (02/07/2018) [W]
 [Code] Elixir project: Add Dyalizer (dialyxir) to run static code analysis and fix types (basec on 'typespec'); general refactor.
+
+### R1D30 (02/08/2018) [Th]
+[Code] Elixir project: Implement FinancialSystem.weighted_transfer/4;
+[Code] TCC: Add tooltip for event on mouse hover (to later, show event information)
