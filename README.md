@@ -103,3 +103,40 @@ Final Project: Define new model for handling event rendering and naming conventi
 ### R1D30 (02/08/2018) [Th]
 [Code] Elixir project: Implement FinancialSystem.weighted_transfer/4;
 [Code] TCC: Add tooltip for event on mouse hover (to later, show event information)
+
+### R1D31 (02/09/2018) [F]
+✕ (Carnaval)
+
+### R1D32 (02/10/2018) [St]
+✕ (Carnaval)
+
+### R1D33 (02/11/2018) [Sn]
+✕ (Carnaval)
+
+### R1D34 (02/12/2018) [M]
+✕ (Carnaval)
+
+### R1D35 (02/13/2018) [Tu]
+✕ (Carnaval)
+
+### R1D36 (02/14/2018) [W]
+✕ (Carnaval)
+
+### R1D37 (02/15/2018) [Th]
+✕ 
+
+### R1D38 (02/16/2018) [F]
+✕ 
+
+### R1D39 (02/17/2018) [St]
+✕ 
+
+### R1D40 (02/18/2018) [Sn]
+✕ 
+
+### R1D41 (02/19/2018) [M]
+✕ 
+
+### R1D42 (02/20/2018) [Tu] 
+
+### R1D43 (02/21/2018) [W]
