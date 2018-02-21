@@ -137,6 +137,8 @@ Final Project: Define new model for handling event rendering and naming conventi
 ### R1D41 (02/19/2018) [M]
 ✕ 
 
-### R1D42 (02/20/2018) [Tu] 
+### R1D42 (02/20/2018) [Tu]
+[Reading] Thinking Functionally
+[Code] TCC: Improve display of node information on mouse over
 
 ### R1D43 (02/21/2018) [W]
